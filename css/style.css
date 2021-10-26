@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+
+body{
+    background-color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.escrita-mao{
+    font-family: 'Allison', cursive;
+    text-shadow: #000 2px 2px;
+}
+
+h2{
+    padding-top: 18px;
+    font-size: 28px;
+    font-weight: bold;
+    text-shadow: white 1px 1px;
+    text-align: center;
+    color: black;
+}
+
+h3{
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    color:black;
+    text-shadow: white 1px 1px;
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:tomato
+}
+
+h6{
+    font-family: 'Arial', cursive;
+    text-align: center;
+    color: black;
+    text-shadow: white 1px 1px;
+}
